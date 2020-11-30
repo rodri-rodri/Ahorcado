@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Ahorcado</string>
+    <string name="tittle">(Ahorcado)</string>
+    <string name="randomWord">Palabra aleatoria</string>
+    <string name="dificilty">Seleccione dificultad</string>
+    <string name="btn_start">START</string>
+    <string name="et_newWord">Introduce palabra</string>
+    <string name="attemps">Intentos restantes</string>
+    <string name="btn_check">Comprobar</string>
+    <string name="completeWords">PALABRA</string>
+    <string name="text_swicht">Completar Palabra</string>
+    <string name="btn_newGame">Jugar de nuevo</string>
+    <string name="et_letter">Ej: A</string>
+</resources>
